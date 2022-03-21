@@ -3,7 +3,7 @@ from httpx import RequestError
 from time import sleep
 from os import system
 
-# list interfaces: netsh interface show interface
+# list interfaces: netsh interface show interface -> 3Z2vM5WaFH8765DA1HR
 
 ip = ""
 url = "https://api.ipify.org"
